@@ -1,0 +1,3 @@
+[submodule "PostEntity-config"]
+	path = PostEntity-config
+	url = https://github.com/ruah0807/PostEntity-config.git
