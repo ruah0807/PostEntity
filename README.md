@@ -38,7 +38,7 @@
 <div align="center">
 
 | **김루아** | **김이랑** | **이재형** |
-| :------: |  :------: | :------: | :------: |
+| :------: |  :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @yeon1615](https://github.com/yeon1615) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @Cheorizzang](https://github.com/Cheorizzang) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @heejiyang](https://github.com/heejiyang) |
 
 </div>
@@ -51,7 +51,7 @@
 - Back-end : Thymeleaf, Java(Jdk 17), SpringBoots
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
 - 협업 툴 : Notion, KakaoTalk
-- UX/UI : 피그마 [<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FZ78TTVni1hRUd3cZFUWlEt%2Fstartup%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DIoGgtOolww1rHbRh-1" allowfullscreen></iframe>](https://www.figma.com/file/Z78TTVni1hRUd3cZFUWlEt/startup?type=design&node-id=0%3A1&mode=dev&t=IoGgtOolww1rHbRh-1)
+- UX/UI : [피그마](https://www.figma.com/file/Z78TTVni1hRUd3cZFUWlEt/startup?type=design&node-id=0%3A1&mode=dev&t=IoGgtOolww1rHbRh-1)
 
 ![개발환경](https://github.com/First-Team-STARTUP/Diabetes-management/assets/159866078/fa4c5d18-dfb0-4cf4-a002-9730ad471f47)
 
